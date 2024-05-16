@@ -33,7 +33,7 @@ function Challenge2() {
                     </a>
 
                     <div className="flex items-center  pl-1">
-                        <DownloadButton filePath="./src/assets/apk/app_math.apk" />
+                        <DownloadButton filePath="./public/assets/apk/app_math.apk" />
 
 
                     </div>

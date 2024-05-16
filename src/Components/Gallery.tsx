@@ -19,7 +19,7 @@ function Gallery() {
                     className="group relative flex h-48 items-end overflow-hidden rounded-lg bg-gray-100 shadow-lg md:h-80">
                     <img src="https://websitesecuritystore.com/wp-content/uploads/2021/07/what-happens-when-your-site-gets-hacked.svg" loading="lazy" alt="Photo by Minh Pham" className="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110" />
 
-                    <img src="./src/assets/img/challengeImg/petcybersecurity_hacked.jpg" className="hidden"></img>
+                    <img src="./public/assets/img/challengeImg/petcybersecurity_hacked.jpg" className="hidden"></img>
                     <div
                         className="pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-800 via-transparent to-transparent opacity-50">
                     </div>
@@ -32,7 +32,7 @@ function Gallery() {
                 <a href="#"
                     className="group relative flex h-48 items-end overflow-hidden rounded-lg bg-gray-100 shadow-lg md:col-span-2 md:h-80">
                     <img src="https://websitesecuritystore.com/wp-content/uploads/2021/07/what-happens-when-your-site-gets-hacked.svg" loading="lazy" alt="Photo by Magicle" className="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110" />
-                    <img src="./src/assets/img/challengeImg/congresocyber_hacked.jpg" className="hidden"></img>
+                    <img src="./public/assets/img/challengeImg/congresocyber_hacked.jpg" className="hidden"></img>
 
 
 
@@ -48,7 +48,7 @@ function Gallery() {
                 <a href="#"
                     className="group relative flex h-48 items-end overflow-hidden rounded-lg bg-gray-100 shadow-lg md:col-span-2 md:h-80">
                     <img src="https://websitesecuritystore.com/wp-content/uploads/2021/07/what-happens-when-your-site-gets-hacked.svg" loading="lazy" alt="Photo by Martin Sanchez" className="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110" />
-                    <img src="./src/assets/img/challengeImg/teamcyber_hacked.jpg" className="hidden"></img>
+                    <img src="./public/assets/img/challengeImg/teamcyber_hacked.jpg" className="hidden"></img>
 
 
                     <div
@@ -63,7 +63,7 @@ function Gallery() {
                 <a href="#"
                     className="group relative flex h-48 items-end overflow-hidden rounded-lg bg-gray-100 shadow-lg md:h-80">
                     <img src="https://websitesecuritystore.com/wp-content/uploads/2021/07/what-happens-when-your-site-gets-hacked.svg" loading="lazy" alt="Photo by Lorenzo Herrera" className="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110" />
-                    <img src="./src/assets/img/challengeImg/ctfcyber_hacked.jpg" className="hidden"></img>
+                    <img src="./public/assets/img/challengeImg/ctfcyber_hacked.jpg" className="hidden"></img>
 
                     <div
                         className="pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-800 via-transparent to-transparent opacity-50">

@@ -4,7 +4,7 @@ function NavBar() {
     return <nav className="bg-slate-900 border-gray-200 dark:bg-gray-900">
         <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
             <a href="https://flowbite.com/" className="flex items-center space-x-3 rtl:space-x-reverse">
-                <img src="./src/assets/img/Cybersecurity_TEC_Logo.png" className="h-20" alt="Flowbite Logo" />
+                <img src="./public/assets/img/Cybersecurity_TEC_Logo.png" className="h-20" alt="Flowbite Logo" />
                 <span className="self-center text-2xl font-semibold whitespace-nowrap text-slate-200">CyberSecurityTEC</span>
             </a>
 
