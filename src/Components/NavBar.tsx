@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 
 
 function NavBar() {
@@ -11,13 +12,13 @@ function NavBar() {
             <div className="items-center justify-between  w-full md:flex md:w-auto md:order-1" >
                 <ul className="flex flex-col font-medium p-4 md:p-0 mt-4   rounded-lg  md:space-x-8 rtl:space-x-reverse md:flex-row md:mt-0 md:border-0  ">
                     <li>
-                        <a href="/" className="block py-2 px-3 md:p-0  rounded md:bg-transparent  text-white" aria-current="page">Inicio</a>
+                        <Link to="/" className="block py-2 px-3 md:p-0  rounded md:bg-transparent  text-white" aria-current="page">Inicio</Link>
                     </li>
                     <li>
-                        <a href="/about" className="block py-2 px-3 md:p-0 text-white rounded   dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700">Sobre Nostros</a>
+                        <Link to="/about" className="block py-2 px-3 md:p-0 text-white rounded   dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700">Sobre Nostros</Link>
                     </li>
                     <li>
-                        <a href="/blog" className="block py-2 px-3 md:p-0 text-white rounded  md:dark:hover:text-blue-500 dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700">Blog</a>
+                        <Link to="/blog" className="block py-2 px-3 md:p-0 text-white rounded  md:dark:hover:text-blue-500 dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700">Blog</Link>
                     </li>
                 </ul>
             </div>
