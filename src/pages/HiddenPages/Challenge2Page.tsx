@@ -26,14 +26,12 @@ function Challenge2() {
 
                 <div className="flex  items-center">
 
-                    <img src="./dist/static/playstore.svg" className="h-32 py-6" alt="" />
 
-                    <a href="https://www.youtube.com/watch?v=SPAr1TaSW2o">
 
-                    </a>
+
 
                     <div className="flex items-center  pl-1">
-                        <DownloadButton filePath="./public/assets/apk/app_math.apk" />
+                        <DownloadButton filePath="./assets/apk/app_math.apk" />
 
 
                     </div>

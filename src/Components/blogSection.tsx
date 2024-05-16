@@ -4,25 +4,25 @@ const postObject = [
         title: "Dominando Flutter: Desarrollo Multiplataforma",
         description: "Adéntrate en el poderoso mundo de Flutter, un framework de desarrollo multiplataforma que te permite construir aplicaciones nativas rápidas y fluidas para iOS, Android y web con un solo código base.",
         urlImage: "https://miro.medium.com/v2/resize:fit:720/format:webp/1*6JxdGU2WIzHSUEGBx4QeAQ.jpeg",
-        createdBy: "./public/assets/img/people/presidente.png"
+        createdBy: "./assets/img/people/presidente.png"
     },
     {
         title: "Ingeniería Inversa: Revelando Tecnología Oculta",
         description: "La ingeniería inversa es un arte fascinante que nos permite desentrañar los misterios detrás de la tecnología que usamos todos los días. Desde descifrar protocolos de comunicación hasta analizar el funcionamiento interno de los dispositivos electrónicos, este artículo te llevará en un viaje profundo hacia el corazón de la ingeniería inversa.",
         urlImage: "https://d3eeke16mv0lt7.cloudfront.net/sites/default/files/styles/article_hero_image/public/field/image/bad-guys-reverse-engineering.jpg",
-        createdBy: "./public/assets/img/people/presidente.png"
+        createdBy: "./assets/img/people/presidente.png"
     },
     {
         title: "AES: El Enigma del Cifrado Avanzado",
         description: "Sumérgete en el mundo de la criptografía moderna con el algoritmo de cifrado Advanced Encryption Standard (AES). Desde su diseño robusto hasta su implementación en aplicaciones de seguridad informático. Este algoritmo tienes dos modos el cual un modo recibe una clave secreta para poder descrifrar la frase",
         urlImage: "https://www.thesslstore.com/blog/wp-content/uploads/2020/04/what-is-aes-advanced-encryption-standard-698x419.jpg",
-        createdBy: "./public/assets/img/people/presidente.png"
+        createdBy: "./assets/img/people/presidente.png"
     },
     {
         title: "Base64: Codificación de Datos Binarios",
         description: "Base64 es un método de codificación que convierte datos binarios en texto ASCII, lo que permite la transferencia segura de datos a través de protocolos que solo admiten texto. Es ampliamente utilizado en aplicaciones web y de correo electrónico para representar datos binarios.",
         urlImage: "https://www.debugpoint.com/wp-content/uploads/2021/11/Base64-Index-Table.png",
-        createdBy: "./public/assets/img/people/presidente.png"
+        createdBy: "./assets/img/people/presidente.png"
     },
     {
         title: "Metadatos en Imágenes: Detalles Incrustados",
