@@ -1,4 +1,4 @@
-import { HashRouter, Route, HashRouter as Router, Routes } from "react-router-dom";
+import { HashRouter, Route, HashRouter as Routes } from "react-router-dom";
 import routes from "./Routes";
 
 
