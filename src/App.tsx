@@ -1,8 +1,7 @@
 import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
 import routes from "./Routes";
 
-//       Challenge decrypt
-//fundamentalmente Challenge 
+
 function App() {
   return (
     <Router>
@@ -15,7 +14,7 @@ function App() {
           />
         ))}
       </Routes>
-    </Router>
+    </Router >
   );
 }
 
